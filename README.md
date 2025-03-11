@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/metricsAndmetrics/828cf203-af05-47f7-be15-a46741075b60/138a83df-c53e-4989-a0c3-95752fe021aa/_apis/work/boardbadge/de2557cf-4637-4a1a-91f8-50095ade7244)](https://dev.azure.com/metricsAndmetrics/828cf203-af05-47f7-be15-a46741075b60/_boards/board/t/138a83df-c53e-4989-a0c3-95752fe021aa/Microsoft.RequirementCategory)
 # metrics
